@@ -1,0 +1,60 @@
+body {
+  background: #FD746C;
+  font-weight: 400;
+  font-family: helvetica, arial;
+}
+
+.header {
+  text-align: center;
+  height: 100%;
+}
+
+.header h1 {
+  font-size: 100px;
+  letter-spacing: 6px;
+  color: rgb(255, 255, 255);
+  text-transfom: uppercase;
+  margin: 0px 0px 20px 0px;
+  padding: 0px;
+}
+
+.header h2 {
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  margin: 0px;
+  padding: 0px;
+}
+
+.content {
+  background: rgb(255, 255, 255);
+  margin: 50px 100px;
+  font-size: 20px;
+  line-height: 40px;
+  border-radius: 3px;
+}
+
+.content .padding {
+  padding:  200px 200px 0px 200px;
+}
+
+.content rose {
+  color: #FD746C;
+  text-transform: uppercase;
+}
+
+.content .graph{
+  display:block;
+  height:400px;
+  width:100%;
+}
+
+.content .padding p {
+  vertical-align: top;
+  margin: 0px 20px 200px 20px;
+  font-family: helvetica, arial;
+}
+
+.project {
+  margin: 20px 0px;
+  padding: 10px;
+}
